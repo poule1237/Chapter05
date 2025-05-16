@@ -12,12 +12,10 @@ public class Person {
 	
 	//셍성자
 	public Person() {
-		super();
 	}
 	
 	
 	public Person(String name, String hp, String company) {
-		super();
 		this.name = name;
 		this.hp = hp;
 		this.company = company;
